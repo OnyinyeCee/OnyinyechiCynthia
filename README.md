@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnyinyechiCynthia
+- 👋 Hi, I’m @OOnyinye
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate
